@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm SS 👋</h1>
+<h1 align="center">Hi, I'm Shamin 👋</h1>
 
 <p align="center">
   <b>Business + Data Analyst | MSBA @ UIUC | Fintech & Product Enthusiast</b><br/>
@@ -66,6 +66,6 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/shamin-shaikh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
+  <a href="mailto:shaikh8@illinois.edu"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
 </p>
