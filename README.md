@@ -1,102 +1,86 @@
 <!-- HEADER -->
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+</div>
+<h1 align="center">Hi, I'm Shamin Shaikh </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=6E6EFF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Shamin+👋;Business+%2F+Data+Analyst;MSBA+%40+UIUC;Fintech+%7C+Analytics+%7C+Product" />
+  <em>MSBA Grad | Automating Banking Processes | Accounting & Finance Background</em>
 </p>
 
-<br>
-
-<!-- BADGE ROW -->
 <p align="center">
-  <img src="https://img.shields.io/badge/MSBA-UIUC-FF6C2F?style=for-the-badge&logo=university&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fintech-Automation-4A90E2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Analytics-Expert-6E6EFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Analytics-%230077B5.svg?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Process_Automation-%23F39C12.svg?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Finance-%2300A86B.svg?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
 
-## 🌈 About Me
-I'm a Business + Data Analyst with a background in **fintech automation**, **workflow optimization**, and **data analytics**.  
-Graduated with an **MSBA from UIUC**, I enjoy transforming messy business problems into structured, scalable, data-driven solutions.
+## ✨ About Me  
+Hi! I'm **Shamin**, an MSBA graduate with a passion for creating **clean, automated data workflows** and uncovering insights that genuinely help businesses run better.  
 
-Outside analytics, I love clean design, product thinking, and building meaningful tech.
+With a foundation in **Accounting & Finance**, I love blending numbers, clarity, and storytelling to solve real problems — especially in the **banking and financial services** world.
+
+I aim to build things that:  
+- ✔ reduce manual work  
+- ✔ simplify decision-making  
+- ✔ look clean and intentional  
+- ✔ and actually make someone say “ohhh that’s useful”  
 
 ---
 
-## 🧩 Tech & Tools
-
-### **Languages**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,sqlite" height="45" />
-</p>
-
-### **Python Libraries**
+## 🛠️ Technical Toolkit  
 <p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Numpy-4D77CF?style=flat&logo=numpy&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Statsmodels-333?style=flat&logo=python&logoColor=white" height="28"/>
-</p>
-
-### **Analytics & BI**
-<p>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black" height="28"/>
-  <img src="https://skillicons.dev/icons?i=excel" height="45"/>
-</p>
-
-### **Cloud & Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=aws" height="45"/>
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white" height="28"/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" height="45"/>
-</p>
-
-### **Dev Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=github,git,vscode" height="45"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black&style=flat" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=flat"/>
 </p>
 
 ---
 
-## ✨ Featured Work
+## 📌 Highlighted Projects  
+Here’s a small taste of what I enjoy working on:
 
-### 🔹 **Financial & Data Projects**
-- 📈 **E-Commerce Revenue Forecasting (Python, ARIMA, Prophet, LSTM)**  
-- 🪙 **Crypto Analytics (MEW & SAMO) with Dune SQL Dashboards**  
-- 🏠 **Property Valuation Model – regression, feature engineering**  
-
-### 🔹 **Business & Product Projects**
-- 🏥 **Healthcare RPM Workflow Analysis**  
-- 📺 **Super Bowl Ad Effectiveness – sentiment + regression**  
-- 💰 **Pricing Analytics Case Portfolio**
-
-> Want me to rewrite your project READMEs so each looks professional? I can do that too.
+### 🎬 **Super Bowl Ad Engagement Analysis**  
+A deep dive into how major brands performed during the Super Bowl using pre–post engagement data.  
+Clean insights, beautiful visuals, and a narrative-style notebook.  
+*Located in this repo.*
 
 ---
 
-## 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
+### 📈 **E-Commerce Time Series Forecasting**  
+Demand forecasting using ARIMA, Prophet, and ML models — comparing which works best and why.
 
 ---
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img height="32" src="https://skillicons.dev/icons?i=linkedin" /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:YOUR-EMAIL"><img height="32" src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
+### 🏦 **Banking Workflow Automation**  
+Process simplification + reducing manual tasks using Python + SQL.  
+(Coming soon to this profile!)
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer" />
-</p>
+## 🎯 What I’m Building Right Now  
+- More analytically rich portfolio projects  
+- Clean, automated data workflows  
+- A stronger presence in the analytics + finance space  
+
+---
+
+## 🌱 A Bit of My Personality  
+I like things that are:  
+- clean ✨  
+- minimal but not boring  
+- structured but still expressive  
+- and most importantly… useful  
+
+Whether it's a dashboard, notebook, or automation script — I try to build things that feel organized and intentional.
+
+---
+
+## 🤝 Let’s Connect  
+I’m always open to conversations around analytics, banking automation, data storytelling, and building cool things.
+
+Thanks for dropping by — hope you enjoy exploring my work 👋
