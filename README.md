@@ -51,17 +51,6 @@ Clean insights, beautiful visuals, and a narrative-style notebook.
 
 ---
 
-### 📈 **E-Commerce Time Series Forecasting**  
-Demand forecasting using ARIMA, Prophet, and ML models — comparing which works best and why.
-
----
-
-### 🏦 **Banking Workflow Automation**  
-Process simplification + reducing manual tasks using Python + SQL.  
-(Coming soon to this profile!)
-
----
-
 ## 🎯 What I’m Building Right Now  
 - More analytically rich portfolio projects  
 - Clean, automated data workflows  
